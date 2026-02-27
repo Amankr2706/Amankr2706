@@ -1,10 +1,10 @@
 ## 💫About Me:
 - **🔭 I’m currently working on building full‑stack web applications with the MERN stack and integrating AI features.**
-- 👯 I'm looking to collaborate on web development projects using React, Node.js, or AI integrations.
-- 🤝 I’m looking for help with optimizing backend performance and exploring cloud deployment (AWS/Azure).
-- 🌱 I’m currently learning advanced system design and diving deeper into generative AI APIs.
-- 💬 Ask me about MERN stack, DSA problem‑solving, or how I built my AI Trip Planner.
-- ⚡ Fun fact: I’ve solved over 500 DSA problems and love turning ideas into code!
+- **👯 I'm looking to collaborate on web development projects using React, Node.js, or AI integrations.**
+- **🤝 I’m looking for help with optimizing backend performance and exploring cloud deployment (AWS/Azure).**
+- **🌱 I’m currently learning advanced system design and diving deeper into generative AI APIs.**
+- **💬 Ask me about MERN stack, DSA problem‑solving, or how I built my AI Trip Planner.**
+- **⚡ Fun fact: I’ve solved over 500 DSA problems and love turning ideas into code!**
 
 
 ## 🌐 Socials:
