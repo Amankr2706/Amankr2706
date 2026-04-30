@@ -4,7 +4,7 @@
 - **🤝 I’m looking for help with optimizing backend performance and exploring cloud deployment (AWS/Azure).**
 - **🌱 I’m currently learning advanced system design and diving deeper into generative AI APIs.**
 - **💬 Ask me about MERN stack, DSA problem‑solving, or how I built my AI Trip Planner.**
-- **⚡ Fun fact: I’ve solved over 500 DSA problems and love turning ideas into code!**
+- **⚡ Fun fact: I love turning ideas into real-world code!**
 
 
 ## 🌐 Socials:
